@@ -1,6 +1,14 @@
 
 # Spotlight Effect Flutter Package
 
+<div style="text-align: center; margin-top: 20px;">
+  <strong>Preview:</strong><br>
+  <img src="https://raw.githubusercontent.com/Saravanan260203/packagepreview/6fafcd033265b54c54439ae9ac7c0d7ee935c7af/video_20250112_131042.gif" alt="Package Preview" style="max-width: 100%; height: auto;">
+</div>
+
+
+
+
 ## Overview
 
 The Spotlight package provides a simple way to create spotlight effects in your Flutter applications. This package allows you to highlight specific areas of your UI, drawing attention to important elements.
