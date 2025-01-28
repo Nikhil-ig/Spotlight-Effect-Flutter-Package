@@ -3,7 +3,7 @@
 
 <div style="text-align: center; margin-top: 20px;">
   <strong>Preview:</strong><br>
-  <img src="/SpotlightEffect.gif" alt="Package Preview" style="max-width: 100%; height: 50%;">
+  <img src="/SpotlightEffect.gif" alt="Package Preview" style="max-width: 60%; max-height: 50%;">
 </div>
 
 
