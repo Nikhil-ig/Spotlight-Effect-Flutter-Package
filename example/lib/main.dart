@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:spotlight/spotlight.dart';
+import 'package:spotlight_effect/spotlight_effect.dart';
 
 void main() {
   runApp(const MyApp());
